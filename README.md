@@ -1,6 +1,6 @@
 Earthquake Finder
 
-here is my live website: 
+here is my live website: https://akzaman47.github.io/earthquakefinder/
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
 
