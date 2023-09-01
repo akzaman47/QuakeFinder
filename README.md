@@ -1,6 +1,7 @@
 Earthquake Finder
 
 - Description
+  
 This website depicts a Leaflet map visualization showcasing earthquake data from the past week. The data is presented in GeoJSON format and originates from the United States Geological Survey.
 
 Here is my live website: https://akzaman47.github.io/earthquakefinder/
