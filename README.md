@@ -1,4 +1,4 @@
-Earthquake Finder
+Quake Finder
 
 - Description
   
