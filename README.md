@@ -26,4 +26,3 @@ A style.css file with the CSS code
 
 •This README.md file
 
-Description This is a Leaflet map visualization of the last 7 days of earthquake data provided in GeoJSON format by the United States Geological Survey
